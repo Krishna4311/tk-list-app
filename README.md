@@ -73,7 +73,7 @@ Run the application:
 - `tabulate` (for formatting tables)
 ## Screenshot
 
-![List App Screenshot](images/screenshot.png)
+![List App Screenshot](images/Screenshot.png)
 
 This project is open-source and free to use.
 
