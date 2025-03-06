@@ -71,6 +71,9 @@ Run the application:
 
 - `tkinter` (built-in with Python)
 - `tabulate` (for formatting tables)
+## Screenshot
+
+![List App Screenshot](images/screenshot.png)
 
 This project is open-source and free to use.
 
